@@ -21,12 +21,6 @@ this project can be found in https://github.com/RoodzFernando/toy-app
 
 
 
-### ✨ [code picture]
-
-<img alt="project image" src="https://github.com/firmoholanda/ruby-twitter-bot/blob/features/img/screen.png"/>
-
-
-
 ## 🤝 contributing
 
 contributions, issues, and feature requests are welcome!<br/>feel free to check [issues page](https://github.com/RoodzFernando/toy-app/development/issues).
@@ -41,9 +35,9 @@ contributions, issues, and feature requests are welcome!<br/>feel free to check 
 
 ## 🤖 contributor
 
-roodz fernando - [GitHub](github.com/RoodzFernando)
+roodz fernando - [GitHub](https://github.com/RoodzFernando)
 
-firmo holanda - [GitHub](github.com/firmoholanda)
+firmo holanda - [GitHub](https://github.com/firmoholanda)
 
 
 ## 🙋‍♂ show your support
